@@ -1,1 +1,2 @@
-"strict mode"
+// Importing module
+console.log(importing module);
