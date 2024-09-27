@@ -1,2 +1,3 @@
 // Importing module
-console.log(importing module);
+import './shoppingCard.js';
+console.log('importing module');
