@@ -80,6 +80,7 @@ console.log(cart);
 // command line
 
 import cloneDeep from './node_modules/lodash-es/cloneDeep.js';
+// import cloneDeep from 'lodash';
 
 const state = {
   cart: [
@@ -96,3 +97,24 @@ state.user.loggedIn = false;
 console.log(stateClone);
 
 console.log(stateDeepClone);
+
+if (module.hot) {
+  module.hot.accept();
+}
+
+class person {
+  greeting = "hey";
+  constructor(name) {
+    this.name = name;
+    console.log(`${this.greeting} , ${this.name}`);
+  };
+}
+const jonas = new person('jonas');
+
+
+console.log('jonas' ?? null);
+
+import 'core-js/stable';
+
+// polifilling async functions
+import 'regenerator-runtime/runtime';
