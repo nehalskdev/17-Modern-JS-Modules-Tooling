@@ -4,17 +4,17 @@
 // addToCart('bread', 5);
 // console.log(price, qt);
 
-// console.log('importing module');
+console.log('importing module');
 
 // // import * as shopingCart from './shoppingCard.js';
 // // shopingCart.addToCart('bread', 5);
 
-// import add, { addToCart, cart } from './shoppingCard.js';
-// add('pizza', 2);
-// add('apple', 4);
-// add('bread', 5);
+import add, {  cart } from './shoppingCard.js';
+add('pizza', 2);
+add('apple', 4);
+add('bread', 5);
 
-// console.log(cart);
+console.log(cart);
 
 // // console.log('start fetching');
 // // const res = await fetch('https://jsonplaceholder.typicode.com/posts');
