@@ -40,8 +40,11 @@ const logbigExpenses = function (biglimit) {
     output +=
       entry.value <= -biglimit ? `${entry.description.slice(-2)} / ` : '';
   }
+
+  output = output.slice(0, -2); // Remove last '/ '
+  console.log(output);
 };
-output = output.slice(0, -2); // Remove last '/ '
-console.log(output);
+
+
 console.log(budget);
 logbigExpenses(100);
