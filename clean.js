@@ -17,8 +17,9 @@ const spendingLimits = {
 const addExpense = function (value, description, user="jonas") {
   user = user.toLowerCase();
 
-  
-  const limit = spendingLimits[user] ? spendingLimits[user] : 0;
+
+  // const limit = spendingLimits[user] ? spendingLimits[user] : 0;
+  const limit = spendingLimits?.[user] ?? 0;
 
   if (value <= limit) {
     budget.push({ value: -value, description: description, user: user });
