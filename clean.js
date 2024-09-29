@@ -1,3 +1,4 @@
+'strict mode';
 const budget = [
   { value: 250, description: 'Sold old TV 📺', user: 'jonas' },
   { value: -45, description: 'Groceries 🥑', user: 'jonas' },
@@ -9,10 +10,10 @@ const budget = [
   { value: -1800, description: 'New Laptop 💻', user: 'jonas' },
 ];
 
-const spendingLimits = {
+const spendingLimits = Object.freeze({
   jonas: 1500,
   matilda: 100,
-};
+});
 
 const getLimit = user => spendingLimits?.[user] ?? 0;
 const addExpense = function (value, description, user = 'jonas') {
@@ -47,4 +48,4 @@ const logbigExpenses = function (biglimit) {
 
 
 console.log(budget);
-logbigExpenses(100);
+logbigExpenses(1000);
