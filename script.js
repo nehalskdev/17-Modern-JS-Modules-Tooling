@@ -117,4 +117,4 @@ console.log('jonas' ?? null);
 import 'core-js/stable';
 
 // polifilling async functions
-import 'regenerator-runtime/runtime';
+import 'regenerator-runtime/runtime'; 

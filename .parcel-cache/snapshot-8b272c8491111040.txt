@@ -56,7 +56,7 @@
 105C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\es\typed-array\from.js133720306027842410 0
 104C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\es\promise\finally.js133720306025166139 0
 97C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\overEvery.js133719908755869519 0
-66C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist133720311303851914 1
+66C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist133720694337627302 1
 109C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\cosmiconfig\dist\getDirectory.d.ts133720280850939308 0
 106C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\internals\array-fill.js133720306007773466 0
 103C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\nth-check\lib\index.d.ts.map133720280844873893 0
@@ -64,7 +64,7 @@
 114C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\es\typed-array\float32-array.js133720306026781942 0
 111C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\internals\to-property-key.js133720306046923386 0
 80C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\clone133720280841267410 1
-72C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\index.html133720284846671571 0
+72C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\index.html133720694334194070 0
 92C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\last.js133719908754670578 0
 109C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@parcel\workers\src\core-worker.js133720280844853938 0
 99C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\semver\functions\diff.js133720280844175570 0
@@ -108,7 +108,7 @@
 83C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\css-tree133720280861464006 1
 106C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\htmlnano\lib\modules\custom.mjs133720280854031873 0
 122C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\modules\esnext.array-buffer.detached.js133720306020933073 0
-71C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\script.js133720311094339094 0
+71C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\script.js133720644632004509 0
 100C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\csso\cjs\clean\Atrule.cjs133720280843537100 0
 112C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\actual\symbol\has-instance.js133720306030063612 0
 101C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\js-yaml\lib\schema\json.js133720280846240600 0
@@ -7047,7 +7047,7 @@
 120C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\full\reflect\get-own-metadata-keys.js133720306028610316 0
 115C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\full\reflect\get-own-metadata.js133720306028620302 0
 126C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\full\reflect\get-own-property-descriptor.js133720306028698971 0
-84C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist\index.8cfc62b9.js133720311303767245 0
+84C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist\index.8cfc62b9.js133720694323167503 0
 111C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\full\reflect\has-metadata.js133720306030142587 0
 105C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\features\array\push.js133720306040432520 0
 94C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\core-js\actual\math133720306048764552 1
@@ -9867,7 +9867,7 @@
 145C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\preset-default.js133720280850001563 0
 126C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133720280840888314 0
 145C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeComments.js133720280850370698 0
-77C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist\index.html133720305739839931 0
+77C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist\index.html133720694337627302 0
 141C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDesc.js133720280850530288 0
 147C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDimensions.js133720280850630046 0
 144C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDoctype.js133720280850729818 0
@@ -10350,4 +10350,4 @@
 90C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\.bin\parcel.cmd133720280873758145 0
 88C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\.bin\svgo.ps1133720280873758145 0
 102C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\node_modules\.bin\update-browserslist-db133720280873778094 0
-88C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist\index.8cfc62b9.js.map133720311303841945 0
+88C:\Users\NEHAL SHAIKH\Desktop\Js\17-Modern-JS-Modules-Tooling\dist\index.8cfc62b9.js.map133720694323242596 0
