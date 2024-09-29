@@ -14,15 +14,14 @@ const spendingLimits = {
   matilda: 100,
 };
 
-const addExpense = function (value, description, user="jonas") {
+const addExpense = function (value, description, user = 'jonas') {
   user = user.toLowerCase();
-
 
   // const limit = spendingLimits[user] ? spendingLimits[user] : 0;
   const limit = spendingLimits?.[user] ?? 0;
 
   if (value <= limit) {
-    budget.push({ value: -value, description: description, user: user });
+    budget.push({ value: -value, description, user });
   }
 };
 addExpense(10, 'Pizza 🍕');
@@ -30,21 +29,16 @@ addExpense(100, 'Going to movies 🍿', 'Matilda');
 addExpense(200, 'Stuff', 'Jay');
 console.log(budget);
 
-const check = function () {
-  for (const el of budget) {
-    let lim;
-    if (spendingLimits[el.user]) {
-      lim = spendingLimits[el.user];
-    } else {
-      lim = 0;
-    }
+const checkExpenses = function () {
+  for (const entry of budget) {
+    const limit = spendingLimits?.[entry.user] ?? 0;
 
-    if (el.value < -lim) {
-      el.flag = 'limit';
+    if (entry.value < -limit) {
+      entry.flag = 'limit';
     }
   }
 };
-check();
+checkExpenses();
 
 console.log(budget);
 
